@@ -3,5 +3,5 @@ In this project we are given 5 years of store-item sales data, and asked to pred
 
    Methods                         |         Private Score           |      Public Score
 -----------------------------------|---------------------------------|-----------------------
-Lasso + Recursive Strategy         |           14.34500              |       14.86393
+Lasso + Recursive Strategy         |           13.69244              |       15.03471
 Lasso + Direct Strategy            |           13.32273              |       14.88406
